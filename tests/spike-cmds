@@ -1,0 +1,3 @@
+until reg 0 sp 0xdeaddead
+dump
+quit

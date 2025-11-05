@@ -1,3 +1,5 @@
+/* simple reference implementations */
+
 void *memset(void *dst, int ch, unsigned long sz)
 {
     char *d = (char *)dst;
